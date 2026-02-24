@@ -12,7 +12,7 @@ library(randomForest)  # random forest
 library(FNN)           # kNN regression
 
 # Configuration 
-data_path      <- '/Users/koushiksoma/Desktop/Analytics Practicum/Case 1 /used_device_data.csv'
+data_path      <- 'used_device_data.csv'
 knn_k          <- 5
 
 # Naming the Ouctome Variable
