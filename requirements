@@ -1,0 +1,14 @@
+# Install required packages
+install.packages(c(
+  "tidyverse",
+  "janitor",
+  "glue",
+  "VIM",
+  "ggplot2",
+  "ggcorrplot",
+  "car",
+  "rsample",
+  "rpart",
+  "randomForest",
+  "FNN"
+))
