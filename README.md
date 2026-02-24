@@ -202,22 +202,18 @@ The framework improves efficiency in the resale smartphone market.
 
 ---
 
-## 📦 Requirements
+## 📌 Conclusion
 
-### R Version
-R ≥ 4.0.0 recommended
+This project successfully transforms subjective smartphone resale pricing into a data-driven predictive system.
 
-### Required Packages
+By combining:
 
-```r
-library(tidyverse)
-library(janitor)
-library(glue)
-library(VIM)           
-library(ggplot2)
-library(ggcorrplot)    
-library(car)           
-library(rsample)       
-library(rpart)         
-library(randomForest)  
-library(FNN)           
+Strong statistical validation
+
+Robust machine learning models
+
+Transparent regression analysis
+
+Practical business insights
+
+The solution enhances pricing accuracy, builds trust, and supports profitability in the resale smartphone market.
