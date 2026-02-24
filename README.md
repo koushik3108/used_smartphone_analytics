@@ -210,12 +210,14 @@ R ≥ 4.0.0 recommended
 ### Required Packages
 
 ```r
-library(readr)
-library(dplyr)
+library(tidyverse)
+library(janitor)
+library(glue)
+library(VIM)           
 library(ggplot2)
-library(caret)
-library(rpart)
-library(randomForest)
-library(VIM)
-library(class)
-library(car)
+library(ggcorrplot)    
+library(car)           
+library(rsample)       
+library(rpart)         
+library(randomForest)  
+library(FNN)           
